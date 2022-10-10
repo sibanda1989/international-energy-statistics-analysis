@@ -6,3 +6,5 @@ Please contact us at stats@iea.org if you have any questions on the terms.
 Last update:
 This notice, and any copyright or sourcing statements in the file, must not be removed from this file.
 
+Electricity production and trade data for OECD Member Countries and electricity production data for a selection of other economies.
+
