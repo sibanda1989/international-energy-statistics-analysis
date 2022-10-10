@@ -1,0 +1,8 @@
+The Monthly electricity data explorer and the main highlights are available here: https://www.iea.org/reports/monthly-electricity-statistics-overview
+
+Please note that your use of IEA data is subject to the Terms and Conditions found on the IEA’s website here: https://www.iea.org/terms 
+In particular, external dissemination of any IEA data, including within software or other tools, requires specific permission and may be subject to an additional licence fee.
+Please contact us at stats@iea.org if you have any questions on the terms.
+Last update:
+This notice, and any copyright or sourcing statements in the file, must not be removed from this file.
+
